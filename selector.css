@@ -1,0 +1,7 @@
+/* Universal Selector */
+* {
+    font-size: 12px;
+    color: blue;
+    text-decoration: none;
+    text-align: center;
+}
