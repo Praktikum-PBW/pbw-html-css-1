@@ -5,3 +5,15 @@
     text-decoration: none;
     text-align: center;
 }
+
+/* Element Selector */
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+p {
+    color: red;
+    font-size: 14px;
+}
