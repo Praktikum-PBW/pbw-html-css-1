@@ -17,3 +17,9 @@ p {
     color: red;
     font-size: 14px;
 }
+
+/* class selector */
+.alert-success {
+    color: green;
+    font-weight: bold;
+}
