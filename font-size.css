@@ -1,0 +1,19 @@
+/* pixel */
+p.text {
+    font-size: 18px;
+}
+
+/* persen */
+h1.title {
+    font-size: 80%;
+}
+
+/* em */
+p.em {
+    font-size: 1.2em;
+}
+
+/* root em */
+p.root {
+    font-size: 2rem;
+}
