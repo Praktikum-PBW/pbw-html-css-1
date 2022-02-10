@@ -40,3 +40,20 @@ p {
 h1 .date #text {
     color: green;
 }
+
+/* Dynamic Pseudo Class Selector */
+:link {
+    color: red;
+}
+
+:visited {
+    color: green;
+}
+
+a:hover {
+    color: yellow;
+}
+
+:active {
+    color: aqua;
+}
