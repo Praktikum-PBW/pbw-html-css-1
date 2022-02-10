@@ -1,0 +1,23 @@
+.text-satu {
+    text-decoration: underline;
+}
+
+.text-dua {
+    text-decoration: overline;
+}
+
+.text-tiga {
+    text-decoration: line-through;
+}
+
+.text-empat {
+    text-decoration: underline overline;
+}
+
+.text-lima {
+    text-decoration: line-through underline overline;
+}
+
+.text-enam {
+    text-decoration: none;
+}
