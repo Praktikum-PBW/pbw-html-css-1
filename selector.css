@@ -35,3 +35,8 @@ p {
     color: blue;
     font-weight: bold;
 }
+
+/* group selector */
+h1 .date #text {
+    color: green;
+}
