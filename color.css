@@ -1,0 +1,24 @@
+h1 {
+    /* Color Keyword */
+    color: tomato;
+}
+
+h2 {
+    /* RRGGBB */
+    color: #00ff00;
+}
+
+h3 {
+    /* RGB */
+    color: rgb(255, 0, 255);
+}
+
+h4 {
+    /* RGBA */
+    color: rgba(45, 45, 80, 1);
+}
+
+h5 {
+    /* HSL */
+    color: hsl(40, 100%, 20%);
+}
