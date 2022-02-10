@@ -23,3 +23,9 @@ p {
     color: green;
     font-weight: bold;
 }
+
+/* id selector */
+#alert-danger {
+    color: red;
+    font-weight: bold;
+}
