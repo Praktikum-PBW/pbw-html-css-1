@@ -45,3 +45,10 @@ Semua kode CSS pada pertemuan 1 dapat diakses dengan cepat melalui link berikut
 - [Line Height](https://github.com/Praktikum-PBW/pbw-html-css-1/blob/main/line-height.css)
 - [Padding](https://github.com/Praktikum-PBW/pbw-html-css-1/blob/main/padding.html)
 - [Margin](https://github.com/Praktikum-PBW/pbw-html-css-1/blob/main/margin.html)
+
+## ✨Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/budi-setiawan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="budi-setiawan15" height="30" width="40" /></a>
+<a href="https://instagram.com/budisyaqier10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="budisyaqier10" height="30" width="40" /></a>
+</p>
